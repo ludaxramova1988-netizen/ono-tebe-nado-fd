@@ -232,7 +232,7 @@
 }
 
 .about__column__left {
-margin-left: 47px;
+    margin-left: 47px;
 }
 
 .about__logo {
@@ -305,14 +305,14 @@ margin-left: 47px;
 }
 
 .footer__menu-link_active {
-font-weight: 400;
-font-size: 18px;
-text-decoration: none;
+    font-weight: 400;
+    font-size: 18px;
+    text-decoration: none;
 }
 
 .footer__menu-link {
-font-weight: 400;
-font-size: 18px;
+    font-weight: 400;
+    font-size: 18px;
 }
 
 .footer__social-list {
