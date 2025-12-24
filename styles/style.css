@@ -100,7 +100,7 @@
 }
 
 .aligned-text_right {
-    text-align: right; 
+    text-align: right;
 }
 
 .aligned-text_right_letter {
@@ -284,7 +284,7 @@
 
 .address__footer {
     display: flex;
-    flex-direction: column; 
+    flex-direction: column;
     justify-content: flex-start;
     line-height: 135%;
     font-size: 18px;
