@@ -144,7 +144,6 @@
 .lots__heading {
     font-size: 40px;
     font-weight: 700;
-    font-size: 40px;
     text-transform: uppercase;
     color: #000;
     margin-bottom: 27px;
@@ -153,14 +152,14 @@
 
 .lots__card-list-item {
     width: 334px;
-    min-height: 596px;  
+    min-height: 596px;
 }
 
 .card-link {
     height: 100%;
 }
 
-.lots__card-list{
+.lots__card-list {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -202,7 +201,7 @@
     background-position: center;
 }
 
-.card_type_book{
+.card_type_book {
     background-image: url(../images/card-lot-02.jpg);
     background-size: cover;
     background-repeat: no-repeat;
