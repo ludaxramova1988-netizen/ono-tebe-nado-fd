@@ -36,10 +36,10 @@
 
 .address {
     display: flex;
-    flex-direction: column; 
+    flex-direction: column;
     justify-self: flex-end;
     line-height: 135%;
-    padding-left: 185px; 
+    padding-left: 185px;
     font-size: 18px;
     font-weight: 400;
     font-style: normal;
@@ -79,7 +79,7 @@
 
 .cover__title {
     display: flex;
-    flex-direction: column; 
+    flex-direction: column;
     color: white;
     text-transform: uppercase;
     font-weight: 700;
@@ -100,7 +100,7 @@
 }
 
 .aligned-text_right {
-   text-align: right; 
+    text-align: right; 
 }
 
 .aligned-text_right_letter {
